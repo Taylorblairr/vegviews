@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.23.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "vegviews",
+  "version": "1.0.0",
+  "description": "Application for reviewing vegan food",
+  "main": "server.js",
+  "keywords": [
+    "node",
+    "mysql"
+  ],
+  "author": "Taylor Blair",
+  "license": "ISC"
+}
