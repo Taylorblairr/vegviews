@@ -82,11 +82,9 @@ const ProductDetail = () => {
           <Col md={8} lg={8} sm={8}>
             <Card className="m-3 p-2 rounded">
               <Card.Body>
-                <Card.Title>Title: {title}</Card.Title>
-                <Card.Title className="text-success">
-                  Price: ${price}
-                </Card.Title>
-                <Card.Text>Description: {productDescription}</Card.Text>
+                <Card.Title>{title}</Card.Title>
+                <Card.Title className="text-success">${price}</Card.Title>
+                <Card.Text>{productDescription}</Card.Text>
                 <Card.Text></Card.Text>
                 <br />
 
