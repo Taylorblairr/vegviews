@@ -7,3 +7,6 @@ npm install
 
 Usage
 npm start
+
+Link to demo of the project working as intended 
+https://www.youtube.com/watch?v=w_sQ6Ti1ooM
